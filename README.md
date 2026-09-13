@@ -2,6 +2,6 @@
 
 Check out all my projects!
 
-energypod.io
+energypod.io/
 utilivolt.io
 nyisotoolkit.com
